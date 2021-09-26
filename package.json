@@ -1,0 +1,20 @@
+{
+  "name": "calculadora_imc",
+  "version": "1.0.0",
+  "description": "Calcualdora de IMC",
+  "main": "imc.js",
+  "scripts": {
+    "start": "node index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FREITAS1978/Calculadora_IMC.git"
+  },
+  "author": "Fabio de Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FREITAS1978/Calculadora_IMC/issues"
+  },
+  "homepage": "https://github.com/FREITAS1978/Calculadora_IMC#readme"
+}
